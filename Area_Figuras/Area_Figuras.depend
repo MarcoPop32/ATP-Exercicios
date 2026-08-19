@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787172612 source:d:\salve_aqui_seus_arquivos\mp\atp-exercicio\area_figuras\main.c
+	<stdio.h>
+	<locale.h>
+
