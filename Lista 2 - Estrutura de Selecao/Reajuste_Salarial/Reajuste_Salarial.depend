@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787551576 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\reajuste_salarial\main.c
+	<stdio.h>
+	<locale.h>
+

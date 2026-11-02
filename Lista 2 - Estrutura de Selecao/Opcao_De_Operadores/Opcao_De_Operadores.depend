@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787585787 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\opcao_de_operadores\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+

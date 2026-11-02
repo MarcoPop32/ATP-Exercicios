@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788054275 source:c:\users\marcos\desktop\atp-exercicio-2\equacao_2_grau\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787581762 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\classificacao_etaria\main.c
+	<stdio.h>
+	<locale.h>
+

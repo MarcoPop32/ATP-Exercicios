@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787584407 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\aumento_de_cargo\main.c
+	<stdio.h>
+	<locale.h>
+

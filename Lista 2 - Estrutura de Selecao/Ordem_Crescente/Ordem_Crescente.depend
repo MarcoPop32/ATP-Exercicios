@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788150493 source:c:\users\marcos\desktop\atp-exercicio-2\ordem_crescente\main.c
+	<stdio.h>
+	<locale.h>
+

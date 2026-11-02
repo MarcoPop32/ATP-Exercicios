@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787555480 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\media_e_conceito\main.c
+	<stdio.h>
+	<locale.h>
+

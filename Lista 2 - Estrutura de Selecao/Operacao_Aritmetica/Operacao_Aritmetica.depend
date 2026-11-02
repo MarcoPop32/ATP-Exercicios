@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788153739 source:c:\users\marcos\desktop\atp-exercicio-2\operacao_aritmetica\main.c
+	<stdio.h>
+	<locale.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788042126 source:c:\users\marcos\desktop\atp-exercicio-2\grupo_de_risco\main.c
+	<stdio.h>
+	<locale.h>
+

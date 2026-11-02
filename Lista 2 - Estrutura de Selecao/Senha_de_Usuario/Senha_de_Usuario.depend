@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787551135 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\senha_de_usuario\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+

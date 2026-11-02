@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1788145768 source:c:\users\marcos\desktop\atp-exercicio-2\contador_de_letras\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+

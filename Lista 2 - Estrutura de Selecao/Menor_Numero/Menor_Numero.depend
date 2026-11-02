@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787580963 source:c:\users\marcos\desktop\gitbhb\estrutura-de-selecao\menor_numero\main.c
+	<stdio.h>
+	<locale.h>
+
